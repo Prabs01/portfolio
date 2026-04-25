@@ -9,7 +9,8 @@ function App() {
 
   return (
     <>
-      <h1>Site Under Construction</h1>
+      <h1>Hi, I'm Prabesh and this is my portfolio.</h1>
+      <i>Note: Site Under Construction</i>
     </>
   )
 }
